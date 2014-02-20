@@ -24,3 +24,6 @@ config.h.in~
 Makefile
 config.log
 config.status
+
+*.o
+.dirstamp

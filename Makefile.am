@@ -1,3 +1,4 @@
+AUTOMAKE_OPTIONS = subdir-objects
 
 bin_PROGRAMS=openredalert
 
@@ -325,6 +326,6 @@ openredalert_SOURCES= \
 openredalert_LDFLAGS = $(SDL_CFLAGS)
 openredalert_LDADD = $(SDL_LIBS)
 
-INCLUDES = -Isrc/
+AM_CPPFLAGS = -Isrc/
 
 EXTRA_DIST = src/* data/*
