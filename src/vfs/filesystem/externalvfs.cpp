@@ -133,7 +133,7 @@ size_t ExternalFiles::getFile(const char *fname, const char* mode)
             newFile.path = filename;
             fnum = (size_t)f;
             openfiles[fnum] = newFile;
-			printf("opened file [%lld]: %s\n", fnum, newFile.path.c_str());
+			//printf("opened file [%lld]: %s\n", fnum, newFile.path.c_str());
             return fnum;
         } // Error condition hanled at end of function
     }
@@ -151,7 +151,7 @@ size_t ExternalFiles::getFile(const char *fname, const char* mode)
 
             fnum = (size_t)f;
             openfiles[fnum] = newFile;
-				printf("opened file [%lu]: %s\n", fnum, newFile.path.c_str());
+				//printf("opened file [%lu]: %s\n", fnum, newFile.path.c_str());
             return fnum;
         }
     }
