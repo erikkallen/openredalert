@@ -125,9 +125,7 @@
 
 [ERROR]%s line %i: Error want imgnum %i but only %i images availeble, image name = %s
 
-[DEBUG] src/game/Unit.cpp (559) :TRIGGER_EVENT_DESTROYED unit
-[Error] src/game/UAttackAnimEvent.cpp (85) :Unknown unit type.
-[DEBUG] src/game/Unit.cpp (559) :TRIGGER_EVENT_DESTROYED unit
+[INFO] src/game/MoveAnimEvent.cpp (200) :path is empty
 [DEBUG] src/game/Unit.cpp (559) :TRIGGER_EVENT_DESTROYED unit
 [INFO]Initializing the graphics engine...
 [INFO]done
@@ -202,6 +200,8 @@
 
 [DEBUG] src/ui/Menu.cpp (733) :Loading string from conquer.eng
 [INFO]Exit by user (game menu)
+
+[Error] src/game/UnitOrStructure.cpp (74) :%s line %i: References is not 0 
 
 [Error] src/game/UnitOrStructure.cpp (74) :%s line %i: References is not 0 
 
