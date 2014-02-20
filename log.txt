@@ -1,0 +1,304 @@
+[INFO]Trying to load 'RedAlert'
+[INFO].MIX archives loading ok
+
+[INFO]Please wait, OpenRedAlert 0.1 is starting
+
+[INFO]Initializing the graphics engine...
+[INFO]Done.
+[INFO]Initializing the sound engine...
+[INFO]done
+
+[INFO]Initializing game engine.
+[INFO]Starting game.
+[INFO]Initializing the graphics engine...
+[INFO]done
+
+[INFO]Initializing the sound engine...
+[INFO]done
+
+[INFO]Trying to load 'RedAlert'
+[INFO]Initializing the RA Data loader...
+[INFO]done
+
+[DEBUG] src/ui/Menu.cpp (820) :Loading palette: 'SNOW'
+[DEBUG] src/ui/Menu.cpp (832) :Try to loading file in VFS 'SNOW.PAL'
+[DEBUG] src/ui/Menu.cpp (87) :Loading background graphics.
+[DEBUG] src/ui/Menu.cpp (152) :Configure buttons.
+[DEBUG] src/ui/Menu.cpp (379) :Loading mission maps
+[DEBUG] src/ui/Menu.cpp (383) :Loading multi-players maps
+[DEBUG] src/game/MultiPlayerMaps.cpp (158) :Loading maps in maps folder
+[DEBUG] src/game/MultiPlayerMaps.cpp (88) :Loading ABANDON1.INI maps
+[INFO]Load ABANDON1.INI file
+
+[DEBUG] src/game/MultiPlayerMaps.cpp (102) :OK
+[DEBUG] src/game/MultiPlayerMaps.cpp (117) :Line = [Missions]
+
+[DEBUG] src/game/MultiPlayerMaps.cpp (117) :Line = SCM22EA.INI=A Path Beyond (Lg)
+
+[DEBUG] src/game/MultiPlayerMaps.cpp (117) :Line = SCM13EA.INI=Central Conflict (Lg)
+
+[DEBUG] src/game/MultiPlayerMaps.cpp (117) :Line = SCM01EA.INI=Coastal Influence (Med)
+
+[DEBUG] src/game/MultiPlayerMaps.cpp (117) :Line = SCM14EA.INI=Combat Alley (Med)
+
+[DEBUG] src/game/MultiPlayerMaps.cpp (117) :Line = SCM16EA.INI=Desolation (Lg)
+
+[DEBUG] src/game/MultiPlayerMaps.cpp (117) :Line = SCM23EA.INI=Dugout Isle (Med)
+
+[DEBUG] src/game/MultiPlayerMaps.cpp (117) :Line = SCM03EA.INI=Equal Opportunity (Sm)
+
+[DEBUG] src/game/MultiPlayerMaps.cpp (117) :Line = SCM10EA.INI=First Come, First Serve (Sm)
+
+[DEBUG] src/game/MultiPlayerMaps.cpp (117) :Line = SCM11EA.INI=Island Hoppers (Sm)
+
+[DEBUG] src/game/MultiPlayerMaps.cpp (117) :Line = SCM15EA.INI=Island Wars (Lg)
+
+[DEBUG] src/game/MultiPlayerMaps.cpp (117) :Line = SCM06EA.INI=Isle of Fury (Lg)
+
+[DEBUG] src/game/MultiPlayerMaps.cpp (117) :Line = SCM07EA.INI=Ivory Wastelands (Sm)
+
+[DEBUG] src/game/MultiPlayerMaps.cpp (117) :Line = SCM05EA.INI=Keep off the Grass (Sm)
+
+[DEBUG] src/game/MultiPlayerMaps.cpp (117) :Line = SCM04EA.INI=Marooned II (Med)
+
+[DEBUG] src/game/MultiPlayerMaps.cpp (117) :Line = SCM02EA.INI=Middle Mayhem (Sm)
+
+[DEBUG] src/game/MultiPlayerMaps.cpp (117) :Line = SCM17EA.INI=No Escape (Med)
+
+[DEBUG] src/game/MultiPlayerMaps.cpp (117) :Line = SCM18EA.INI=No Man's Land (Med)
+
+[DEBUG] src/game/MultiPlayerMaps.cpp (117) :Line = SCM19EA.INI=Normandy (Med)
+
+[DEBUG] src/game/MultiPlayerMaps.cpp (117) :Line = SCM09EA.INI=North By Northwest (Lg)
+
+[DEBUG] src/game/MultiPlayerMaps.cpp (117) :Line = SCM20EA.INI=Pond Skirmish (Med)
+
+[DEBUG] src/game/MultiPlayerMaps.cpp (117) :Line = SCM12EA.INI=Raraku (Lg)
+
+[DEBUG] src/game/MultiPlayerMaps.cpp (117) :Line = SCM21EA.INI=Ridge War (Med)
+
+[DEBUG] src/game/MultiPlayerMaps.cpp (117) :Line = SCM08EA.INI=Shallow Grave (Med)
+
+[DEBUG] src/game/MultiPlayerMaps.cpp (117) :Line = SCM24EA.INI=Treasure Isle (Med)
+
+[DEBUG] src/ui/Menu.cpp (733) :Loading string from conquer.eng
+[WARNING]Player Side 'BadGuy' not recognised, using PS_GOOD instead
+[WARNING]Player Side 'Multi1' not recognised, using PS_GOOD instead
+[WARNING]Player Side 'Multi2' not recognised, using PS_GOOD instead
+[WARNING]Player Side 'Multi3' not recognised, using PS_GOOD instead
+[WARNING]Player Side 'Multi4' not recognised, using PS_GOOD instead
+[WARNING]Player Side 'Multi5' not recognised, using PS_GOOD instead
+[WARNING]Player Side 'Multi6' not recognised, using PS_GOOD instead
+[WARNING]Player Side 'Multi7' not recognised, using PS_GOOD instead
+[WARNING]Player Side 'Multi8' not recognised, using PS_GOOD instead
+[DEBUG] src/game/CncMap.cpp (266) :Reading SCG01EA.INI
+[INFO]Waypoint loaded.
+[INFO] src/game/CncMap.cpp (1880) :Shadow images loaded...
+[INFO] src/game/CncMap.cpp (1885) :smudge marks and the tiberium loading...
+
+[INFO]smudge images loaded...
+[INFO]Terrain loaded.
+[INFO]OverlayPack loaded.
+[Error] src/game/talkback.cpp (177) :Unknown type: include
+[Error] src/game/talkback.cpp (177) :Unknown type: include
+[Error] src/game/talkback.cpp (177) :Unknown type: include
+[Error] src/game/talkback.cpp (177) :Unknown type: include
+[ERROR]unitAndStructurPool.preloadUnitAndStructures error in TechLevel reading 'WOOD
+[INFO]UnitAndStructurePool::preloadUnitAndStructures() ok
+
+[INFO]UnitAndStructurePool::generateProductionGroups() ok
+
+[ERROR]error in CncMap::advanced...STRUCTURES ok
+
+[INFO]CncMap::advanced...STRUCTURES ok
+
+[INFO]CncMap::advanced...UNIT ok
+
+[ERROR]Cell %i already occupied by structure TSLA
+[Error] src/game/CncMap.cpp (3341) :[CnCMap::loadTeamTypes] section [TeamTypes] was not found in ini file.
+
+[DEBUG] src/ui/sidebar.cpp (103) :Sidebar constructor
+[DEBUG] src/game/Game.cpp (220) :Init cursor.
+[DEBUG] src/game/Game.cpp (224) :Init input.
+[DEBUG] src/game/Game.cpp (229) :End of Game::InitializeMap
+[ERROR]%s line %i: Error want imgnum %i but only %i images availeble, image name = %s
+
+[ERROR]%s line %i: Error want imgnum %i but only %i images availeble, image name = %s
+
+[DEBUG] src/game/Unit.cpp (559) :TRIGGER_EVENT_DESTROYED unit
+[Error] src/game/UAttackAnimEvent.cpp (85) :Unknown unit type.
+[DEBUG] src/game/Unit.cpp (559) :TRIGGER_EVENT_DESTROYED unit
+[DEBUG] src/game/Unit.cpp (559) :TRIGGER_EVENT_DESTROYED unit
+[INFO]Initializing the graphics engine...
+[INFO]done
+
+[INFO]Initializing the sound engine...
+[INFO]done
+
+[INFO]Trying to load 'RedAlert'
+[INFO]Initializing the RA Data loader...
+[INFO]done
+
+[DEBUG] src/ui/Menu.cpp (820) :Loading palette: 'SNOW'
+[DEBUG] src/ui/Menu.cpp (832) :Try to loading file in VFS 'SNOW.PAL'
+[DEBUG] src/ui/Menu.cpp (87) :Loading background graphics.
+[DEBUG] src/ui/Menu.cpp (152) :Configure buttons.
+[DEBUG] src/ui/Menu.cpp (379) :Loading mission maps
+[DEBUG] src/ui/Menu.cpp (383) :Loading multi-players maps
+[DEBUG] src/game/MultiPlayerMaps.cpp (158) :Loading maps in maps folder
+[DEBUG] src/game/MultiPlayerMaps.cpp (88) :Loading ABANDON1.INI maps
+[INFO]Load ABANDON1.INI file
+
+[DEBUG] src/game/MultiPlayerMaps.cpp (102) :OK
+[DEBUG] src/game/MultiPlayerMaps.cpp (117) :Line = [Missions]
+
+[DEBUG] src/game/MultiPlayerMaps.cpp (117) :Line = SCM22EA.INI=A Path Beyond (Lg)
+
+[DEBUG] src/game/MultiPlayerMaps.cpp (117) :Line = SCM13EA.INI=Central Conflict (Lg)
+
+[DEBUG] src/game/MultiPlayerMaps.cpp (117) :Line = SCM01EA.INI=Coastal Influence (Med)
+
+[DEBUG] src/game/MultiPlayerMaps.cpp (117) :Line = SCM14EA.INI=Combat Alley (Med)
+
+[DEBUG] src/game/MultiPlayerMaps.cpp (117) :Line = SCM16EA.INI=Desolation (Lg)
+
+[DEBUG] src/game/MultiPlayerMaps.cpp (117) :Line = SCM23EA.INI=Dugout Isle (Med)
+
+[DEBUG] src/game/MultiPlayerMaps.cpp (117) :Line = SCM03EA.INI=Equal Opportunity (Sm)
+
+[DEBUG] src/game/MultiPlayerMaps.cpp (117) :Line = SCM10EA.INI=First Come, First Serve (Sm)
+
+[DEBUG] src/game/MultiPlayerMaps.cpp (117) :Line = SCM11EA.INI=Island Hoppers (Sm)
+
+[DEBUG] src/game/MultiPlayerMaps.cpp (117) :Line = SCM15EA.INI=Island Wars (Lg)
+
+[DEBUG] src/game/MultiPlayerMaps.cpp (117) :Line = SCM06EA.INI=Isle of Fury (Lg)
+
+[DEBUG] src/game/MultiPlayerMaps.cpp (117) :Line = SCM07EA.INI=Ivory Wastelands (Sm)
+
+[DEBUG] src/game/MultiPlayerMaps.cpp (117) :Line = SCM05EA.INI=Keep off the Grass (Sm)
+
+[DEBUG] src/game/MultiPlayerMaps.cpp (117) :Line = SCM04EA.INI=Marooned II (Med)
+
+[DEBUG] src/game/MultiPlayerMaps.cpp (117) :Line = SCM02EA.INI=Middle Mayhem (Sm)
+
+[DEBUG] src/game/MultiPlayerMaps.cpp (117) :Line = SCM17EA.INI=No Escape (Med)
+
+[DEBUG] src/game/MultiPlayerMaps.cpp (117) :Line = SCM18EA.INI=No Man's Land (Med)
+
+[DEBUG] src/game/MultiPlayerMaps.cpp (117) :Line = SCM19EA.INI=Normandy (Med)
+
+[DEBUG] src/game/MultiPlayerMaps.cpp (117) :Line = SCM09EA.INI=North By Northwest (Lg)
+
+[DEBUG] src/game/MultiPlayerMaps.cpp (117) :Line = SCM20EA.INI=Pond Skirmish (Med)
+
+[DEBUG] src/game/MultiPlayerMaps.cpp (117) :Line = SCM12EA.INI=Raraku (Lg)
+
+[DEBUG] src/game/MultiPlayerMaps.cpp (117) :Line = SCM21EA.INI=Ridge War (Med)
+
+[DEBUG] src/game/MultiPlayerMaps.cpp (117) :Line = SCM08EA.INI=Shallow Grave (Med)
+
+[DEBUG] src/game/MultiPlayerMaps.cpp (117) :Line = SCM24EA.INI=Treasure Isle (Med)
+
+[DEBUG] src/ui/Menu.cpp (733) :Loading string from conquer.eng
+[INFO]Exit by user (game menu)
+
+[Error] src/game/UnitOrStructure.cpp (74) :%s line %i: References is not 0 
+
+[Error] src/game/UnitOrStructure.cpp (74) :%s line %i: References is not 0 
+
+[Error] src/game/UnitOrStructure.cpp (74) :%s line %i: References is not 0 
+
+[Error] src/game/UnitOrStructure.cpp (74) :%s line %i: References is not 0 
+
+[Error] src/game/UnitOrStructure.cpp (74) :%s line %i: References is not 0 
+
+[Error] src/game/UnitOrStructure.cpp (74) :%s line %i: References is not 0 
+
+[Error] src/game/UnitOrStructure.cpp (74) :%s line %i: References is not 0 
+
+[Error] src/game/UnitOrStructure.cpp (74) :%s line %i: References is not 0 
+
+[Error] src/game/UnitOrStructure.cpp (74) :%s line %i: References is not 0 
+
+[Error] src/game/UnitOrStructure.cpp (74) :%s line %i: References is not 0 
+
+[Error] src/game/UnitOrStructure.cpp (74) :%s line %i: References is not 0 
+
+[Error] src/game/UnitOrStructure.cpp (74) :%s line %i: References is not 0 
+
+[Error] src/game/UnitOrStructure.cpp (74) :%s line %i: References is not 0 
+
+[Error] src/game/UnitOrStructure.cpp (74) :%s line %i: References is not 0 
+
+[Error] src/game/UnitOrStructure.cpp (74) :%s line %i: References is not 0 
+
+[Error] src/game/UnitOrStructure.cpp (74) :%s line %i: References is not 0 
+
+[Error] src/game/UnitOrStructure.cpp (74) :%s line %i: References is not 0 
+
+[Error] src/game/UnitOrStructure.cpp (74) :%s line %i: References is not 0 
+
+[Error] src/game/UnitOrStructure.cpp (74) :%s line %i: References is not 0 
+
+[Error] src/game/UnitOrStructure.cpp (74) :%s line %i: References is not 0 
+
+[Error] src/game/UnitOrStructure.cpp (74) :%s line %i: References is not 0 
+
+[Error] src/game/UnitOrStructure.cpp (74) :%s line %i: References is not 0 
+
+[Error] src/game/UnitOrStructure.cpp (74) :%s line %i: References is not 0 
+
+[Error] src/game/UnitOrStructure.cpp (74) :%s line %i: References is not 0 
+
+[Error] src/game/UnitOrStructure.cpp (74) :%s line %i: References is not 0 
+
+[Error] src/game/UnitOrStructure.cpp (74) :%s line %i: References is not 0 
+
+[Error] src/game/UnitOrStructure.cpp (74) :%s line %i: References is not 0 
+
+[Error] src/game/UnitOrStructure.cpp (74) :%s line %i: References is not 0 
+
+[Error] src/game/UnitOrStructure.cpp (74) :%s line %i: References is not 0 
+
+[Error] src/game/UnitOrStructure.cpp (74) :%s line %i: References is not 0 
+
+[Error] src/game/UnitOrStructure.cpp (74) :%s line %i: References is not 0 
+
+[Error] src/game/UnitOrStructure.cpp (74) :%s line %i: References is not 0 
+
+[Error] src/game/UnitOrStructure.cpp (74) :%s line %i: References is not 0 
+
+[Error] src/game/UnitOrStructure.cpp (74) :%s line %i: References is not 0 
+
+[Error] src/game/UnitOrStructure.cpp (74) :%s line %i: References is not 0 
+
+[Error] src/game/UnitOrStructure.cpp (74) :%s line %i: References is not 0 
+
+[Error] src/game/UnitOrStructure.cpp (74) :%s line %i: References is not 0 
+
+[Error] src/game/UnitOrStructure.cpp (74) :%s line %i: References is not 0 
+
+[Error] src/game/UnitOrStructure.cpp (74) :%s line %i: References is not 0 
+
+[Error] src/game/UnitOrStructure.cpp (74) :%s line %i: References is not 0 
+
+[Error] src/game/UnitOrStructure.cpp (74) :%s line %i: References is not 0 
+
+[Error] src/game/UnitOrStructure.cpp (74) :%s line %i: References is not 0 
+
+[Error] src/game/UnitOrStructure.cpp (74) :%s line %i: References is not 0 
+
+[Error] src/game/UnitOrStructure.cpp (74) :%s line %i: References is not 0 
+
+[Error] src/game/UnitOrStructure.cpp (74) :%s line %i: References is not 0 
+
+[Error] src/game/UnitOrStructure.cpp (74) :%s line %i: References is not 0 
+
+[Error] src/game/UnitOrStructure.cpp (74) :%s line %i: References is not 0 
+
+[Error] src/game/UnitOrStructure.cpp (74) :%s line %i: References is not 0 
+
+[Error] src/game/UnitOrStructure.cpp (74) :%s line %i: References is not 0 
+
+[INFO]Shutting down.
